@@ -1,4 +1,4 @@
-**Multinomial Choice Probability Calculation using Logistic Function**</br>
+<h1>Multinomial Choice Probability Calculation using Logistic Function</br></h1>
 
 **Introduction**</br>
 In this project, we explore the calculation of probabilities for each alternative in a
